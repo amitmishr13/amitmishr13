@@ -39,7 +39,7 @@
 
 ## 📌 What I’m Focused On
 
-* 🧩 **DSA Mastery (Interview Level)**
+* 🧩 **DSA Mastery**
 * ⚡ **Async State Management (Redux Toolkit)**
 * 🏗️ **Scalable System Design Thinking**
 * 🔄 **Building Production-Level Projects**
