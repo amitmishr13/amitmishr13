@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Amit Mishra
 
-<!--
-**amitmishr13/amitmishr13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer (Java + React) | DSA Focused | Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🔭 Working on: **Scalable full-stack applications****
+* 🌱 Learning: **Advanced DSA, SQL , System Design**
+* ⚡ Strength: Breaking down complex problems into simple logic
+* 🎯 Goal: Build real-world impactful systems
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+`Java` `JavaScript` `SQL`
+
+### ⚙️ Backend
+
+`Spring Boot` `REST APIs`
+
+### 🎨 Frontend
+
+`React.js` `Redux Toolkit` `HTML` `CSS`
+
+### 🗄️ Database
+
+`MySQL`
+
+### 🧰 Tools
+
+`Git` `GitHub` `Postman` `VS Code`
+
+---
+
+## 📌 What I’m Focused On
+
+* 🧩 **DSA Mastery (Interview Level)**
+* ⚡ **Async State Management (Redux Toolkit)**
+* 🏗️ **Scalable System Design Thinking**
+* 🔄 **Building Production-Level Projects**
+
+---
+
+## 💡 Developer Mindset
+
+> “I don’t just write code — I understand why it works, then make it better.”
+
+---
